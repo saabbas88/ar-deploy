@@ -15,7 +15,7 @@ spec:
         app: bank
     spec:
       containers:
-      - name: cont1
+      - name: cont12
         image: reyadocker/internetbankingrepo:latest
 ---
 apiVersion: v1
